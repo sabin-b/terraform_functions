@@ -16,3 +16,27 @@ Terraform_functions:
 - slice()       - it will slice the value in list (begin,last-index)
 
 - element()     - it will get the single  value from list 
+
+- format()      - it's working like -- printf()
+
+- formatlist    - given string attach the list of string or number
+
+- substr()      - it works like slicing in python
+
+- compact()     - it is removing empty string from the list
+
+- distinct()    - it collects the value from list and remove duplicate values
+
+- key()         - convert the map to list
+
+- length()      - it takes length from list or string
+
+- zipmap()      - constructs a map from a list of keys and a corresponding list of values.
+
+- tolist()      - i can pass list
+
+- tomap()       - convert to map
+
+- toset()       - it work's like python set
+
+- 

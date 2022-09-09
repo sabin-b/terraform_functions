@@ -1,0 +1,8 @@
+variable "dummy" {
+  type = list(string)
+  default = [ "ap-south-1a","ap-south-1b","ap-south-1c" ]
+}
+
+output "for-loop" {
+  value = [for az in var.dummy: az]
+}

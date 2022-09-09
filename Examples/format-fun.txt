@@ -1,0 +1,4 @@
+# format("Hello, %s!", "Ander")
+# Hello, Ander!
+# format("There are %d lights", 4)
+# There are 4 lights

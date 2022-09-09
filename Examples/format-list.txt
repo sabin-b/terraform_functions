@@ -1,0 +1,14 @@
+# > formatlist("Hello, %s!", ["Valentina", "Ander", "Olivia", "Sam"])
+# [
+#   "Hello, Valentina!",
+#   "Hello, Ander!",
+#   "Hello, Olivia!",
+#   "Hello, Sam!",
+# ]
+# > formatlist("%s, %s!", "Salutations", ["Valentina", "Ander", "Olivia", "Sam"])
+# [
+#   "Salutations, Valentina!",
+#   "Salutations, Ander!",
+#   "Salutations, Olivia!",
+#   "Salutations, Sam!",
+# ]
