@@ -1,0 +1,18 @@
+
+Terraform_functions:
+
+- merge()       - two maps combine with one map
+
+- join()        - set of list to single string
+
+- split()       - set of string to tolist
+
+- count()       - conditional expressions
+
+- Concat()      -  Takes two or more lists and combines them into a single list
+
+- contains()    - it will check the given string is available in the list or not
+
+- slice()       - it will slice the value in list (begin,last-index)
+
+- element()     - it will get the single  value from list 
