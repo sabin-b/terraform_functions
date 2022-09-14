@@ -1,0 +1,20 @@
+for_each:
+
+    # for_each not supported splat expressions
+
+    #  for_each supports toset,map
+
+    #  toset,toset - converts the value same format string format,remove duplicate values
+
+    #  
+
+
+    course:
+
+    - for loop -05-03
+
+    - keys -05-03
+    
+    - locals - 06 -vpc
+
+    - local values by create tags, many more
