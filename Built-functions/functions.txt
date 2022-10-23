@@ -40,3 +40,7 @@ Terraform_functions:
 - toset()       - it work's like python set
 
 - keys()        - it will return the list from map ,get keys from map
+
+- values()      - it will return values from the Map
+
+- type()        - it will return the variable type
